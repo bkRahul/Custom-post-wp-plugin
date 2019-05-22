@@ -12,5 +12,5 @@ Run git clone https://github.com/bkRahul/Custom-post-wp-plugin.git
 5 . Configure your wp-config file\
 
 # Features
-1 . Contains feature to add custom taxanomy
+1 . Contains feature to add custom taxanomy\
 2 . added the uninstall hook
